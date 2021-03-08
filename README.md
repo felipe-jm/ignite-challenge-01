@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  A really simple application that returns how many items is there in a list by using recursion
+  A really simple application that returns how many items there are in a list by using recursion
 </h4>
 
 
