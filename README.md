@@ -8,8 +8,6 @@
   A really simple application that returns how many items there are in a list by using recursion
 </h4>
 
-
-
 ## :information_source: How To Use
 
 ```bash
@@ -35,7 +33,8 @@ Randomized with seed 388160
 ```
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/felipe-jm/gobarber-frontend-typescript/blob/master/LICENSE) for more information.
+
+This project is under the MIT license. See the [LICENSE](https://github.com/felipe-jm/ignite-elixir-challenge-01/blob/master/LICENSE) for more information.
 
 ---
 
